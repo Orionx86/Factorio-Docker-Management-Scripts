@@ -1,2 +1,1 @@
-docker stop factorio
-docker start factorio
+docker restart factorio
