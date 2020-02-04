@@ -60,7 +60,7 @@ echo " "
 echo "Ctrl + O to save / Ctrl + C to exit"
 echo " "
 
-$ read -rsp $'Press any key to continue...\n' -n1 key
+read -rsp $'Press any key to continue...\n' -n1 key
 
 #################################
 # Edit Factorio server settings #
